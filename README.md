@@ -1,4 +1,4 @@
-<img width="30" src="https://raw.githubusercontent.com/mre/vscode-snippet/master/contrib/icon.png">
+<img width="30" src="https://github.com/saltires/teams-snippets/raw/master/imges/logo.png">
 
 # teams-snippet
 
